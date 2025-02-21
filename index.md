@@ -1,4 +1,9 @@
 ---
-title: Welcome to my blog
+title: Briana Schroll Wood
 ---
 
+## About Me
+
+## Projects
+
+## Leadership 
